@@ -1,6 +1,3 @@
-# Proje Amacı
-## Öğrendiklerimi pekiştirmek.
-
 ## Project setup
 ```
 npm start localhost:3001
