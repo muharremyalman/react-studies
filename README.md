@@ -7,4 +7,4 @@ npm start localhost:3001
 json-server --watch db.json localhost:3000
 ```
 
-![Proje Resmi](https://i.hizliresim.com/ZGHoXK.png)
+![Proje Resmi](https://i.hizliresim.com/QBI18O.png)
